@@ -2,6 +2,10 @@
 
 ## Overview
 This web application allows users to write and execute SQL queries. It provides a user-friendly interface for entering SQL statements, executing them, and viewing the dummy results. The app also includes a query selector that allows users to choose from predefined queries.
+### LIVE
+Try your hands on this amazing application with below link
+
+https://online-sql-editor-app.netlify.app/
 
 ## Technology Stack
 - **JavaScript Framework:** React
@@ -24,7 +28,7 @@ This web application allows users to write and execute SQL queries. It provides 
 - **Optimizations Made:**
   - Tables for predefined queries are only imported once and tableName is used as props which helps in rendering a large amount of rows in application without breaking the browser, or without crashing it.
 - **Results:**
-  - These optimizations resulted in **Decrease** in Load Time and **Increase** in Performance when.
+  - These optimizations resulted in **Decrease** in Load Time and **Increase** in Performance.
 
 ## How to Run
 To run the SQL Query App locally, follow these steps:
