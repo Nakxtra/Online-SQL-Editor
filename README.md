@@ -1,7 +1,10 @@
 # ONLINE SQL EDITOR Application
 
 ## Overview
-This web application allows users to write and execute SQL queries. It provides a user-friendly interface for entering SQL statements, executing them, and viewing the dummy results. The app also includes a query selector that allows users to choose from predefined queries.
+This web application allows users to write and execute SQL queries. It provides a user-friendly interface for entering SQL statements, executing them, and viewing the dummy results. The app also includes a query selector that allows users to choose from predefined queries. 
+
+This application never breaks out while rendering large amount of rows in your application (Tested and also added 2 large files).
+
 ### LIVE
 Try your hands on this amazing application with below link
 
